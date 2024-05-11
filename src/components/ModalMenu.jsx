@@ -27,7 +27,7 @@ export default function ModalMenu() {
             Skill
           </Link>
           <a
-            href={"https://whastup.com"}
+            href={"https://wa.me/6281934572861?text=assamualaikum"}
             target="_blank"
             className="w-full h-16 flex justify-center items-center text-orange-400 font-bold"
             onClick={handleShowMenu}
@@ -35,7 +35,7 @@ export default function ModalMenu() {
             Contact
           </a>
           <a
-            href={"https://linkedin.com"}
+            href={"https://www.linkedin.com/in/alim-assidik-960b401b2/"}
             target="_blank"
             className="w-full h-16 flex justify-center items-center text-orange-400 font-bold"
             onClick={handleShowMenu}
@@ -43,7 +43,7 @@ export default function ModalMenu() {
             LInkedIn
           </a>
           <a
-            href={"https://github.com"}
+            href={"https://github.com/alimassidik210/"}
             target="_blank"
             className="w-full h-16 flex justify-center items-center text-orange-400 font-bold"
             onClick={handleShowMenu}
