@@ -59,7 +59,7 @@ export default {
           {
             id: 2,
             name: "Render",
-            url: "hhttps://mern-blog-ewah.onrender.com/",
+            url: "https://mern-blog-ewah.onrender.com/",
           },
         ],
         image: "/src/assets/liqos.jpg",
