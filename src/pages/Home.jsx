@@ -4,7 +4,7 @@ import { Link } from "react-router-dom";
 
 export default function Home() {
   return (
-    <div className="w-screen h-screen  flex flex-col p-[30px] bg-[#212121] text-orange-400 overflow-hidden relative max-w-[500px] mx-auto">
+    <div className="w-screen h-screen flex flex-col p-[30px] bg-[#212121] text-orange-400 overflow-hidden relative max-w-[500px] mx-auto">
       <h1 className="text-[36px] font-light">Hello...</h1>
 
       <div className="my-8 relative flex flex-col items-center">
