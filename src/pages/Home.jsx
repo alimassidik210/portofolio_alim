@@ -4,13 +4,13 @@ import { Link } from "react-router-dom";
 
 export default function Home() {
   return (
-    <div className="w-screen  flex flex-col p-[30px] bg-[#212121] text-orange-400 overflow-hidden relative max-w-[500px] mx-auto">
+    <div className="w-screen h-screen  flex flex-col p-[30px] bg-[#212121] text-orange-400 overflow-hidden relative max-w-[500px] mx-auto">
       <h1 className="text-[36px] font-light">Hello...</h1>
 
       <div className="my-8 relative flex flex-col items-center">
-        <div className="bg-[url(https://media.licdn.com/dms/image/D5603AQG4pQDbqDx9lw/profile-displayphoto-shrink_200_200/0/1708912675746?e=1720656000&v=beta&t=vimzuNOaQF0k73xl4RpBuUhQw0Q2sGK-bNSXIDF4FWs)] w-[500px] h-[500px] bg-cover rounded-full "></div>
+        <div className="bg-[url(https://media.licdn.com/dms/image/D5603AQG4pQDbqDx9lw/profile-displayphoto-shrink_200_200/0/1708912675746?e=1720656000&v=beta&t=vimzuNOaQF0k73xl4RpBuUhQw0Q2sGK-bNSXIDF4FWs)] w-[400px] h-[400px] bg-cover rounded-full "></div>
 
-        <div className="border-orange-400 border-[6px] w-[530px] h-[530px] rounded-full absolute -top-[15px] "></div>
+        <div className="border-orange-400 border-[6px] w-[430px] h-[430px] rounded-full absolute -top-[15px] "></div>
       </div>
       <div className="mb-[100px]">
         <h1 className="text-[36px] font-light">
